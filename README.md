@@ -6,7 +6,7 @@ Welcome to my GitHub repository for my AI projects! Here you'll find a collectio
 
 To get started, clone this repository to your local machine using the following command:
 
-<pre><code>git clone https://github.com/bibost/AI-Projects
+<pre><code>git clone https://github.com/bibost/AI-Projects.git
 </code></pre>
 
 Each project is located in its own directory, and each directory contains a separate README file with information about the project, how to use it, and what the project does.
