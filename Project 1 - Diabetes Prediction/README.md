@@ -14,7 +14,7 @@ The data used in this project is located in this folder '\diabetes.csv'. The dat
 
 Models
 
-The Jupyter Notebook includes code for RandomForestRegression, CatBoost, LinearRegression, SGDClassifier, which were trained and evaluated on the data described above.
+The Jupyter Notebook includes code for RandomForestRegression, CatBoostClassifier, LinearRegression, SGDClassifier, which were trained and evaluated on the data described above.
 
 Results
 
