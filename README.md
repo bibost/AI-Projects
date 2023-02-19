@@ -16,6 +16,7 @@ Each project is located in its own directory, and each directory contains a sepa
 Here's a list of the projects included in this repository:
 
 * Project 1: Diabetes Prediction
+* Project 2: Gem Stone Price Prediction
 
 
 **Dependencies**
