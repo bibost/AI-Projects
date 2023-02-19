@@ -1,27 +1,25 @@
-# Bibo's AI Projects
+# Diabetes Prediction Project
 
-Welcome to my GitHub repository for my AI projects! Here you'll find a collection of machine learning and deep learning projects that I've worked on, ranging from simple projects to more complex ones.
+This is a machine learning project that I completed in a Jupyter Notebook. The project involves predicting if someone does or does not have diabetes based on various health metrics. The notebook includes code for data preprocessing, model training, and evaluation.
 
-**Getting Started**
+Getting Started
 
-To get started, clone this repository to your local machine using the following command:
+To get started with this project, you will need to have Jupyter Notebook installed on your local machine. You can download and install Jupyter Notebook by following the instructions on their website: https://jupyter.org/install.
 
-<pre><code>git clone https://github.com/bibost/AI-Projects.git
-</code></pre>
+Once you have Jupyter Notebook installed, you can open the project's Jupyter Notebook file and run each cell to see the results of the project.
 
-Each project is located in its own directory, and each directory contains a separate README file with information about the project, how to use it, and what the project does.
+Data
 
-**Projects**
+The data used in this project is located in this folder '\diabetes.csv'. The dataset includes various health metrics such as BMI, High Cholesterol etc..
 
-Here's a list of the projects included in this repository:
+Models
 
-* Project 1: Diabetes Prediction
+The Jupyter Notebook includes code for RandomForestRegression, CatBoostClassifier, LinearRegression, SGDClassifier, which were trained and evaluated on the data described above.
 
+Results
 
-**Dependencies**
+The results of the machine learning model(s) are presented in the Jupyter Notebook, including F1 Score, Recall Score, Precision and Accuracy scores. The notebook also includes multiple plots that were used for data analysis.
 
-Most of the projects in this repository were built using Python, and many of them use popular Python libraries for data analysis and machine learning, such as NumPy, Pandas, Scikit-Learn, and TensorFlow.
+Future Work
 
-**Contributing**
-
-If you have any suggestions or ideas for new projects, feel free to open an issue or submit a pull request! I'm always looking for new ideas and ways to improve my skills.
+There are several ways that this project could be extended or improved in the future, by trying out other models or better tuning the current ones.
